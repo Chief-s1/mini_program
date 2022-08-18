@@ -1,0 +1,1 @@
+This program Encrypts/Decrypts passwords
